@@ -54,9 +54,11 @@ flowchart LR
 
 ## What I learned
 
-1. 
-2. 
-3. 
+1. Every company follows the same basic flow: Buy → Store → Make → Sell. Each department looks after one step.
+2. Goods and money move in opposite directions. Materials come in from suppliers and products go out to customers, while money comes in from customers and goes out to suppliers and employees.
+3. Maintenance, Quality and Finance don't make the product, but production can't run without them.
+4. Each SAP module matches a real department (MM for Purchasing and Stores, PP for Production, SD for Sales, FI and CO for Finance and Controlling), so learning the business first makes SAP easier.
+5. All SAP modules share one system, so one action, like receiving goods, updates Purchasing, Stores and Finance at the same time.
 
 ## How this connects to SAP S/4HANA
 
